@@ -1,6 +1,13 @@
 # pocketai
 Android frontend for oobabooga / text-generation-webui (https://github.com/oobabooga/text-generation-webui)
 
+|  |  |  |  |
+| --- | --- | --- | --- |
+![](https://raw.githubusercontent.com/zlsl/pocketai/main/images/1.png) | ![](https://raw.githubusercontent.com/zlsl/pocketai/main/images/2.png) | ![](https://raw.githubusercontent.com/zlsl/pocketai/main/images/3.png) | ![](https://raw.githubusercontent.com/zlsl/pocketai/main/images/5.png) | 
+
+
+
+
 Main functions:
 
 1. Creating/editing chat templates
