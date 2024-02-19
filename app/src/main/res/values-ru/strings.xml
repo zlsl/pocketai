@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket AI</string>
+    <string name="action_settings">Настройки</string>
+    <string name="tab_dialogs">Диалоги</string>
+    <string name="tab_templates">Шаблоны</string>
+    <string name="tab_model_parameters">Модель</string>
+    <string name="tab_settings">Параметры</string>
+    <string name="tab_characters">Персонажи</string>
+    <string name="str_template_title">Название шаблона</string>
+    <string name="str_template_hint">Строка описания обстановки и прочее.\nИмя|Текст\nИмя2|Текст\nЕще текст\n\nДля переносов внутри блока - разделитель {~}</string>
+    <string name="str_only_fixed_characters">Персонажи из шаблона</string>
+    <string name="str_allow_own_generation">Генерация от себя</string>
+    <string name="str_use_char_token"><![CDATA[Использовать токен <char>]]></string>
+</resources>
